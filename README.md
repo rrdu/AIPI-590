@@ -10,3 +10,5 @@ The homeworks are as follows:
 - **HW 4**: Explainable Techniques II
 - **HW 5**: Explainable Deep Learning
 - **HW 6**: Human-AI Interaction
+- **HW 8**: Adversarial Patches
+- **HW 9**: Mechanistic Interpretability
